@@ -1,0 +1,19 @@
+Veritabaný kontrolü yapýlabilmesi için önce PhpMyAdmin'de aþaðýdaki iþlemleri yapmamýz gerekiyor:
+-------------------------------------------------------------------------------------------------
+
+1) mydb adýnda boþ bir veritabaný oluþturun.
+2) Veritabanýnýn içinde uyeler adýnda 3 sütundan oluþan bir tablo oluþturun.
+
+   Sütun isimleri ve özellikleri aþaðýdaki gibi olsun..
+
+   id		INT     AUTO_INCREMENT   PRIMARY_KEY
+   username     VARCHAR(30)
+   password     VARCHAR(30)
+
+3) Son olarak veritabanýna eriþim yetkisine sahip olacak kullanýcý adý ve þifre tanýmlayýn.
+   Tanýmlama iþleminden sonra bu bilgileri ayar.php dosyasýnda $user ve $pass deðiþkenlerinin 
+   karþýsýna yazýnýz.
+
+
+
+   www.muratyazici.com
