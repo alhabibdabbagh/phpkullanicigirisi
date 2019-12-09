@@ -1,2 +1,2 @@
 # KullaniciGirisi
- php ile yapıldı
+ php  ve MySql ile yapıldı
